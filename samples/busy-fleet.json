@@ -1,0 +1,120 @@
+{
+  "instances": [
+    {
+      "name": "api-server-1",
+      "ocpus": 2,
+      "metrics": [
+        {
+          "date": "2026-11-01",
+          "cpu_pct": 45.0,
+          "net_mbps": 12.0
+        },
+        {
+          "date": "2026-11-02",
+          "cpu_pct": 45.4,
+          "net_mbps": 12.0
+        },
+        {
+          "date": "2026-11-03",
+          "cpu_pct": 45.8,
+          "net_mbps": 12.0
+        },
+        {
+          "date": "2026-11-04",
+          "cpu_pct": 45.0,
+          "net_mbps": 12.0
+        },
+        {
+          "date": "2026-11-05",
+          "cpu_pct": 45.4,
+          "net_mbps": 12.0
+        },
+        {
+          "date": "2026-11-06",
+          "cpu_pct": 45.8,
+          "net_mbps": 12.0
+        },
+        {
+          "date": "2026-11-07",
+          "cpu_pct": 45.0,
+          "net_mbps": 12.0
+        },
+        {
+          "date": "2026-11-08",
+          "cpu_pct": 45.4,
+          "net_mbps": 12.0
+        },
+        {
+          "date": "2026-11-09",
+          "cpu_pct": 45.8,
+          "net_mbps": 12.0
+        },
+        {
+          "date": "2026-11-10",
+          "cpu_pct": 45.0,
+          "net_mbps": 12.0
+        }
+      ],
+      "tags": {}
+    },
+    {
+      "name": "batch-runner",
+      "ocpus": 4,
+      "metrics": [
+        {
+          "date": "2026-11-01",
+          "cpu_pct": 70.0,
+          "net_mbps": 30.0
+        },
+        {
+          "date": "2026-11-02",
+          "cpu_pct": 70.4,
+          "net_mbps": 30.0
+        },
+        {
+          "date": "2026-11-03",
+          "cpu_pct": 70.8,
+          "net_mbps": 30.0
+        },
+        {
+          "date": "2026-11-04",
+          "cpu_pct": 70.0,
+          "net_mbps": 30.0
+        },
+        {
+          "date": "2026-11-05",
+          "cpu_pct": 70.4,
+          "net_mbps": 30.0
+        },
+        {
+          "date": "2026-11-06",
+          "cpu_pct": 70.8,
+          "net_mbps": 30.0
+        },
+        {
+          "date": "2026-11-07",
+          "cpu_pct": 70.0,
+          "net_mbps": 30.0
+        },
+        {
+          "date": "2026-11-08",
+          "cpu_pct": 70.4,
+          "net_mbps": 30.0
+        },
+        {
+          "date": "2026-11-09",
+          "cpu_pct": 70.8,
+          "net_mbps": 30.0
+        },
+        {
+          "date": "2026-11-10",
+          "cpu_pct": 70.0,
+          "net_mbps": 30.0
+        }
+      ],
+      "tags": {
+        "schedule": "nightly"
+      }
+    }
+  ]
+}
